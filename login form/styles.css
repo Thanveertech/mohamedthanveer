@@ -1,0 +1,75 @@
+body {
+  font-family: Arial;
+  background: rgb(9, 143, 49);
+  color: black;
+}
+input[type="submit"] {
+  width: 100%;
+  margin: 10px 0;
+  border-radius: 0px;
+  padding: 15px 18px;
+  box-sizing: border-box;
+}
+button {
+  background-color: rgb(9, 143, 49);
+  color: white;
+  padding: 14px 20px;
+  border-radius: 0px;
+  margin: 7px 0;
+  width: 100%;
+  font-size: 18px;
+}
+button:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+body {
+  font-family: sans-serif;
+  color: white;
+}
+h1 {
+  text-align: center;
+}
+form {
+  width: 35rem;
+  margin: auto;
+  color: white;
+}
+input {
+  width: 100%;
+  margin: 10px 0;
+  border-radius: 0px;
+  padding: 15px 18px;
+  box-sizing: border-box;
+}
+button {
+  background-color: rgb(7, 149, 50);
+  color: white;
+  padding: 14px 20px;
+  border-radius: 0px;
+  margin: 7px 0;
+  width: 100%;
+  font-size: 18px;
+}
+button:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+form {
+  width: 30rem;
+  margin-top: 100px;
+  margin-bottom: 90px;
+  color: black;
+  background-color: white;
+  border-radius: 0px;
+  border: 1px solid rgba(255, 255, 255, 255);
+}
+.headingscontainer {
+  text-align: center;
+}
+.maincontainer {
+  padding-top: 20px;
+  padding-right: 80px;
+  padding-left: 80px;
+  padding-bottom: 25px;
+}
